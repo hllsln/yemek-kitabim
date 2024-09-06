@@ -27,3 +27,9 @@ Kullanıcılar, çeşitli yemek tariflerini görüntüleyebilir, üye olup kendi
 ### Araçlar
 - npm
 - Postman
+
+## Proje Ekran Görüntüleri
+
+![Home Page Screenshot](https://raw.githubusercontent.com/hllsln/yemek-kitabim/main/screenshots/yk1.png)
+
+![Login Page Screenshot](https://raw.githubusercontent.com/hllsln/yemek-kitabim/main/screenshots/yk2.png)
